@@ -46,9 +46,6 @@ Jenkinsfile Overview:
 
 5. Test Docker Image with Ansible
 
-Created Ansible Playbook
-   - Wrote an Ansible playbook (`test-playbook.yml`) to test the Docker image, including tasks to verify the application's functionality within the container.
-
  Executed Ansible Tests
    - Ensured the Jenkins pipeline included a stage to run the Ansible playbook, validating the deployment.
 

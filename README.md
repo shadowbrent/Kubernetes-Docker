@@ -25,8 +25,6 @@ Installed Docker
 *Installed Kubernetes
    - Installed Kubernetes tools on the server to manage containerized applications.
 
-Create and Use Manifest Files
-
 Created Kubernetes Manifest Files
    - Defined deployment and service configurations in YAML files (`deployment.yaml` and `service.yaml`).
    - Stored these manifest files in a version control repository.

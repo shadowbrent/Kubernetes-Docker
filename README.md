@@ -37,7 +37,7 @@ Set Up Jenkins Pipeline**:
    - Configured the pipeline to pull the code and manifest files from the version control repository.
    - Wrote a Jenkinsfile with stages for building the Docker image, pushing it to a Docker registry, deploying to Kubernetes, and running Ansible tests.
 
-Jenkinsfile Overview:
+Jenkins file Overview:
 - Checkout Stage: Pulled the latest code and manifest files from the repository.
 - Build Docker Image Stage: Built the Docker image for the application.
 - Push Docker Image Stage: Pushed the Docker image to a Docker registry.
